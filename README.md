@@ -10,3 +10,4 @@
 - [Open-AutoGLM-GUI](https://github.com/e5sub/Open-AutoGLM-GUI)
 - [DeepAgents-AutoGLM](https://github.com/Illuminated2020/DeepAgents-AutoGLM)
 - [AutoGLM-for-Autojs](https://github.com/liuxf091/AutoGLM-for-Autojs)
+- [xiaozhi-AutoGLM-mcp](https://github.com/xinnan-tech/xiaozhi-AutoGLM-mcp)
