@@ -1,0 +1,12 @@
+#### 开源
+- [AutoGLM-TERMUX](https://github.com/eraycc/AutoGLM-TERMUX)
+- [Open-AutoGLM-Android](https://github.com/xinzezhu/Open-AutoGLM-Android)
+- [AutoGLM-For-Android](https://github.com/Luokavin/AutoGLM-For-Android)
+- [AutoGLM-GUI](https://github.com/suyiiyii/AutoGLM-GUI)
+- [Open-AutoGLM-Hybrid](https://github.com/xietao778899-rgb/Open-AutoGLM-Hybrid)
+- [AutoGLM-Autojs6](https://github.com/lwtcoding/AutoGLM-Autojs6)
+- [auto-phone-scheduler](https://github.com/copialot/auto-phone-scheduler)
+- [Open-AutoGLM-Android](https://github.com/butlanys/Open-AutoGLM-Android)
+- [Open-AutoGLM-GUI](https://github.com/e5sub/Open-AutoGLM-GUI)
+- [DeepAgents-AutoGLM](https://github.com/Illuminated2020/DeepAgents-AutoGLM)
+- [AutoGLM-for-Autojs](https://github.com/liuxf091/AutoGLM-for-Autojs)
